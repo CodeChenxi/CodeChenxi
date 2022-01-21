@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+游客您好！欢迎来到我的主页。
+
+自我介绍一下，我是一名大三学生，是2023的考研党。我将会在这里分享我考研期间的学习生活和一些笔记。
+
